@@ -1,0 +1,140 @@
+#	send_id=1
+#text=Baibulo ndi buku lopatulika lomwe limakhulupiliwa kuti linapatsidwa kwa anthu kuchokera kwa Mulungu.
+1	Baibulo	_	NOUN	_	_	_	_	_	_
+2	ndi	_	VERB	_	_	_	_	_	_
+3	buku	_	NOUN	_	_	_	_	_
+4	polatulika	_	NOUN	_	_	_	_	_	_
+5	lomwe	_	ADP	_	_	_	_	_	_
+6	limakhulupiliwa	_	NOUN	_	_	_	_	_
+7	kuti	_	SCONJ	_	_	_	_	_	_
+8	linapatsidwa	_	VERB	_	_	_	_	_
+9	kwa	_	ADP	_	_	_	_	_	_
+10	anthu	_	NOUN	_	_	_	_	_	_
+11	kuchokera	_	ADP	_	_	_	_	_
+12	kwa	_	ADP	_	_	_	_	_
+13	Mulungu	_	NOUN	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=2
+#text=Ma bukhu a baibulo amayalidwa mofanana mu zitanthauziro zosiyana siyana.
+1	Ma	_	INTJ	_	_	_	_	_	_
+2	buku	_	NOUN	_	_	_	_	_	_
+3	a	_	ADV	_	_	_	_	_	_
+4	baibulo	_	NOUN	_	_	_	_	_
+5	amayalidwa	_	VERB	_	_	_	_	_
+6	mofanana	_	ADV	_	_	_	_	_
+7	mu	_	ADP	_	_	_	_	_	_
+8	zitanthauziro	_	VERB	_	_	_	_	_	_
+9	zosiyana _	NOUN	_	_	_	_	_	_
+10	siyana	_	VERB	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=3
+#text=Chinenelo cha nzika ndi chilankhulo chomwe anthu a dziko amalankhula.
+1	Chinenelo	_	NOUN	_	_	_	_	_
+2	cha	_	VERB	_	_	_	_	_	_
+3	nzika	_	NOUN	_	_	_	_	_
+4	ndi	_	VERB	_	_	_	_	_	_
+5	chilankhulo	_	NOUN	_	_	_	_	_	_
+6	chomwe	_	ADP	_	_	_	_	_	_
+7	anthu	_	NOUN	_	_	_	_	_	_
+8	a	_	ADV	_	_	_	_	_	_
+9	dziko	_	NOUN	_	_	_	_	_	_
+10	amalankhula	_	VERB	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=4
+#text=Chinenelochi chimasankhidwa ndi boma la dziko.
+1	Chinenelochi	_	NOUN	_	_	_	_	_	_
+2	chimasankhidwa	_	ADJ	_	_	_	_	_	_
+3	ndi	_	VERB	_	_	_	_	_	_
+4	boma	_	ADJ	_	_	_	_	_	_
+5	la	_	ADP	_	_	_	_	_	_
+6	dziko	_	NOUN	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+
+#	send_id=5
+#text= Iwo amachikera ku chigwa cha mtsinje wa Shire kummwera kwa dzikoli. 
+1	Iwo	_	PRON	_	_	_	_	_	_
+2	amachikera	_	NOUN	_	_	_	_	_	_
+3	ku	_	ADP	_	_	_	_	_	_
+4	chigwa	_	NOUN	_	_	_	_	_	_
+5	cha	_	VERB	_	_	_	_	_	_
+6	mtsinje	_	NOUN	_	_	_	_	_
+7	wa	_	PRON	_	_	_	_	_	_
+8	Shire	_	NOUN	_	_	_	_	_	_
+9	kummwera	_	NOUN	_	_	_	_	_	_
+10	kwa	_	ADP	_	_	_	_	_	_
+11	dzikoli	_	NOUN	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=6
+#text=Afri linali dzina la anthu amene ankakhala kumpoto kwa dela la Africa ku malo otchedwa Carthage.
+1	Afri	_	NOUN	_	_	_	_	_	_
+2	linali	_	ADJ	_	_	_	_	_	_
+3	dzina	_	NOUN	_	_	_	_	_	_
+4	la	_	ADP	_	_	_	_	_	_
+5	anthu	_	NOUN	_	_	_	_	_	_
+6	amene	_	DET	_	_	_	_	_	_
+7	ankakhala	_	NOUN	_	_	_	_	_	_
+8	kumpoto	_	NOUN	_	_	_	_	_	_
+9	kwa	_	ADP	_	_	_	_	_	_
+10	dela	_	ADP	_	_	_	_	_	_
+11	la	_	ADP	_	_	_	_	_	_
+12	Africa	_	NOUN	_	_	_	_	_	_
+13	ku	_	ADP	_	_	_	_	_	_
+14	malo	_	NOUN	_	_	_	_	_	_
+15	otchedwa	_	VERB	_	_	_	_	_	_
+16	Carthage	_	NOUN	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=7
+#text=Liu la chigiriki aphrike limene limatanthauza malo amene sikumazizira.
+1	Liu	_	ADV	_	_	_	_	_	_
+2	la	_	ADP	_	_	_	_	_	_
+3	chigiriki	_	NOUN	_	_	_	_	_	_
+4	aphrike	_	NOUN	_	_	_	_	_	_
+5	limene	_	PRON	_	_	_	_	_	_
+6	limatanthauza	_	VERB	_	_	_	_	_
+7	malo	_	NOUN	_	_	_	_	_	_
+8	amene	_	DET	_	_	_	_	_	_
+9	sikumazizira	_	VERB	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=8
+#text=Kakhalidwe ka malo ku derali.
+1	Kakhalidwe	_	NOUN	_	_	_	_	_	_
+2	ka	_	ADP	_	_	_	_	_	_
+3	malo	_	NOUN	_	_	_	_	_	_
+4	ku	_	ADP	_	_	_	_	_	_
+5	derali	_	NOUN	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+#	send_id=9
+#text=Chitsamunda ndi liwu lomwe limanena za anthu amene amakhulupilira kuti chikhalidwe ndi zikhulupiliro zawo ndi zapamwamba kuposa za anhu amene anapangidwa chitsamundacho.
+1	Chitsamunda	_	NOUN	_	_	_	_	_	_
+2	ndi	_	VERB	_	_	_	_	_	_
+3	liwu	_	NOUN	_	_	_	_	_	_
+4	lomwe	_	ADP	_	_	_	_	_	_
+5	limanena	_	NOUN	_	_	_	_	_	_
+6	za	_	ADV	_	_	_	_	_	_
+7	anthu	_	NOUN	_	_	_	_	_	_
+8	amene	_	DET	_	_	_	_	_	_
+9	amakhulupilira	_	VERB	_	_	_	_	_	_
+10	kuti	_	CCONJ	_	_	_	_	_	_
+11	chikhalidwe	_	NOUN	_	_	_	_	_	_
+12	ndi	_	VERB	_	_	_	_	_	_
+13	zikhulupiliro	_	NOUN	_	_	_	_	_	_
+14	zawo	_	PRON	_	_	_	_	_	_
+15	ndi	_	VERB	_	_	_	_	_	_
+16	zapamwamba	_	ADV	_	_	_	_	_	_
+17	kuposa	_	ADJ	_	_	_	_	_	_
+18	za	_	ADV	_	_	_	_	_	_
+19	anhu	_	NOUN	_	_	_	_	_	_
+20	amene	_	DET	_	_	_	_	_	_
+21	anapangidwa	_	NOUN	_	_	_	_	_	_
+22	chitsamundacho	_	NOUN	_	_	_	_	_	_
+23	.	_	PUNCT		_	_	_	_	_	_
+
+
