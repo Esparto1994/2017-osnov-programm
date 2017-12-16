@@ -1,0 +1,177 @@
+'a'	'a'
+'i'	'i'
+'o'	'ɔ'
+'e'	'ɜ'
+'u'	'u'
+'ba'	'ɓ'
+'bwa'	'ɓʷ'	
+'bza'	'bzʲ'
+'da'	'ɗ'
+'dwa'	'ɗʷ'
+'dya'	'ɗʲ'
+'ga'	'g'
+'gwa'	'gʷ'
+'ja'	'd͡ʒ'
+'va'	'v'
+'vwa'	'vʷ'
+'vya'	'vʲ'
+'za'	'z'
+'zya'	'zʲ'
+'dza'	'd͡z'
+'dzwe'	'd͡zʷ'
+'pa'	'p'
+'pwa'	'pʷ'
+'pya'	'pʲ'
+'ta'	't'
+'twa'	'tʷ'
+'tya'	'tʲ'
+'ka'	'k'
+'kwa'	'kʷ'
+'cha'	't͡ʃ'
+'pha'	'pʰ'
+'phwa'	'pʷʰ'
+'psa'	'psʲ'
+'tha'	'tʰ'
+'thwa'	'tʷʰ'
+'thya'	'tʲʰ'
+'kha'	'kʰ'
+'khwa'	'kʷʰ'
+'tcha'	't͡ʃʰ'
+'fa'	'f'
+'fwa'	'fʷ'
+'fya'	'fʲ'
+'sa'	's'
+'swa'	'sʷ'
+'sha'	'ʃ'
+'tsa'	't͡s'
+'tswa'	't͡sʷ'
+'mba'	'ᵐb'
+'mbwa'	'ᵐbʷ'
+'mbza'	'ᵐbzʲ'
+'nda'	'ⁿd'
+'ndwa'	'ⁿdʷ'
+'ndya'	'ⁿdʲ'
+'nga'	'ᵑg'
+'ngwa'	'ᵑgʷ'
+'nja'	'ⁿd͡ʒ'
+'mva'	'ᶬv'
+'nza'	'ⁿz'
+'nzwa'	'ⁿzʷ'
+'ndza'	'ⁿd͡z'
+'mpha'	'ᵐpʰ'
+'mphwa'	'ᵐpʷʰ'
+'mpsa'	'ᵐpsʲ'
+'ntha'	'ⁿtʰ'
+'nthwa'	'ⁿtʷʰ'
+'nthya'	'ⁿtʲʰ'
+'nkha'	'ᵑkʰ'
+'nkhwa'	'ᵑkʷʰ'
+'ntchha'	'ⁿt͡ʃʰ'
+'mfa'	'ᶬf'
+'nsa'	'ⁿs'
+'nswa'	'ⁿsʷ'
+'ma'	'm'
+'mwa'	'mʷ'
+'mya'	'mʲ'
+'na'	'n'
+'ng'a'	'ŋ'
+'ng'wa'	'ŋʷ'
+'nya'	'ɲ'
+'ŵa'	'w⁽ᵝ'
+'wa'	'w'
+'la'	'ɽ'
+'ra'	'ɽ'
+'wa'	'ɽʷ'
+'rwa'	'ɽʷ'
+'ha'	'h'
+'ya'	'j'
+
+IPA = {	'a': 'a',
+		'i': 'i',
+		'o': 'ɔ',
+		'e': 'ɜ',
+		'u': 'u',
+		'ba': 'ɓ',
+		'bwa': 'ɓʷ',
+		'bza': 'bzʲ',
+		'da': 'ɗ',
+		'dwa': 'ɗʷ',
+		'dya': 'ɗʲ',
+		'ga': 'g',
+		'gwa': 'gʷ',
+		'ja': 'd͡ʒ',
+		'va': 'v',
+		'vwa': 'vʷ',
+		'vya': 'vʲ',
+		'za': 'z',
+		'zya': 'zʲ',
+		'dza': 'd͡z',
+		'dzwe': 'd͡zʷ',
+		'pa': 'p',
+		'pwa': 'pʷ',
+		'pya': 'pʲ',
+		'ta': 't',
+		'twa': 'tʷ',
+		'tya': 'tʲ',
+		'ka': 'k',
+		'kwa': 'kʷ',
+		'cha': 't͡ʃ',
+		'pha': 'pʰ',
+		'phwa': 'pʷʰ',
+		'psa': 'psʲ',
+		'tha': 'tʰ',
+		'thwa': 'tʷʰ',
+		'thya': 'tʲʰ',
+		'kha': 'kʰ',
+		'khwa': 'kʷʰ',
+		'tcha': 't͡ʃʰ',
+		'fa': 'f',
+		'fwa': 'fʷ',
+		'fya': 'fʲ',
+		'sa': 's',
+		'swa': 'sʷ',
+		'sha': 'ʃ',
+		'tsa': 't͡s',
+		'tswa': 't͡sʷ',
+		'mba': 'ᵐb',
+		'mbwa': 'ᵐbʷ',
+		'mbza': 'ᵐbzʲ',
+		'nda': 'ⁿd',
+		'ndwa': 'ⁿdʷ',
+		'ndya': 'ⁿdʲ',
+		'nga': 'ᵑg',
+		'ngwa': 'ᵑgʷ',
+		'nja': 'ⁿd͡ʒ',
+		'mva': 'ᶬv',
+		'nza': 'ⁿz',
+		'nzwa': 'ⁿzʷ',
+		'ndza': 'ⁿd͡z',
+		'mpha': 'ᵐpʰ',
+		'mphwa': 'ᵐpʷʰ',
+		'mpsa': 'ᵐpsʲ',
+		'ntha': 'ⁿtʰ',
+		'nthwa': 'ⁿtʷʰ',
+		'nthya': 'ⁿtʲʰ',
+		'nkha': 'ᵑkʰ',
+		'nkhwa': 'ᵑkʷʰ',
+		'ntchha': 'ⁿt͡ʃʰ',
+		'mfa': 'ᶬf',
+		'nsa': 'ⁿs',
+		'nswa': 'ⁿsʷ',
+		'ma': 'm',
+		'mwa': 'mʷ',
+		'mya': 'mʲ',
+		'na': 'n',
+		'ng^a': 'ŋ',
+		'ng^wa': 'ŋʷ',
+		'nya': 'ɲ',
+		'ŵa': 'w⁽ᵝ',
+		'wa': 'w',
+		'la': 'ɽ',
+		'ra': 'ɽ',
+		'wa': 'ɽʷ',
+		'rwa': 'ɽʷ',
+		'ha': 'h',
+		'ya'	: 'j'}
+
+
